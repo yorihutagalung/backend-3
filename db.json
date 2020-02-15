@@ -20,5 +20,5 @@
     {"id":"5c2e11a7-f054-46c2-bc64-d2b7866fc10c","status":1,"applicant":"Jerad Efford","loan_applied":"35590.44","application_date":"2019-04-19","guaranteed":[{"name":"Rickie Mc Gaughey","amount":"1144.34"},{"name":"Almira de Pinna","amount":"1863.22"},{"name":"Fiona Boler","amount":"1550.22"},{"name":"Madge Khadir","amount":"2387.91"}]},
     {"id":"4cdc81f4-7343-4883-8686-5645e542d9c9","status":0,"applicant":"Matthew Abrahamsson","loan_applied":"12235.85","application_date":"2019-11-29","guaranteed":[{"name":"Titus Dansie","amount":"1891.48"},{"name":"Carmelle Tschursch","amount":"2505.64"},{"name":"Gardener Ingrey","amount":"1806.72"},{"name":"Florette MacGorley","amount":"2653.90"},{"name":"Jojo Island","amount":"1168.91"}]},
     {"id":"2cd1532f-fd60-40b4-a7d5-8501243890b0","status":1,"applicant":"Myrtice Ridpath","loan_applied":"33037.98","application_date":"2019-10-12","guaranteed":[{"name":"Herbert Poleykett","amount":"2371.88"}]}
-  
+  ]
 }
